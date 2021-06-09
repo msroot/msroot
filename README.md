@@ -7,5 +7,5 @@ My name is Yannis Kolovos, and I'm a Software Engineer at [@AdvocateTech](https:
 - Currently most of the time I am working with Node.js, AWS, PostgreSQL, GraphQL, Jest, Redis, ElasticSearch, InfluxDB, CouchDB, and more..
 - A few of my favorite thing to do is: Refactoring, Caching, Metaprogramming and Performance engineering
 - Sometimes I collaborate on Humanitarian Projects or Open Source for example Stripe, GraphqlAutotest, Stackreduce
-- I ve create a few Gems like Reportly, RunLater, CheckoutTo, Garfield a GraphQL Policy Authorization and more..
+- I ve create a few Gems like Reportly, RunLater, CheckoutTo, Garfield a GraphQL Policy Authorization npms like json-logic-js-graphql and more..
 - You can reach me at yannis.kolovos+github@gmail.com
