@@ -42,7 +42,7 @@ When I’m not architecting systems, you’ll probably find me:
 * 🍳 **Cooking** and experimenting with fermentation in my kitchen.
 * 🎧 **Mixing music** or diving into a good book.
 * 🧘 Practicing a bit of yoga to stay balanced.
-* 
+
 
 ### 📫 Connect with me
 
